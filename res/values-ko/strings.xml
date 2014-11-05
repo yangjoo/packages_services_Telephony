@@ -275,8 +275,8 @@
     <string name="enable_disable_multi_category" msgid="626771003122899280">"다중 카테고리"</string>
     <string name="multi_category_enable" msgid="1179299804641721768">"다중 카테고리 사용"</string>
     <string name="multi_category_disable" msgid="880104702904139505">"다중 카테고리 사용 중지"</string>
-    <string name="network_lte" msgid="7702681952521375754">"LTE(권장)"</string>
-    <string name="network_4G" msgid="2723512640529983138">"4G(권장)"</string>
+    <string name="network_lte" msgid="7702681952521375754">"4G (LTE)"</string>
+    <string name="network_4G" msgid="2723512640529983138">"4G (LTE)"</string>
     <string name="network_global" msgid="1323190488685355309">"전체"</string>
     <string name="cdma_system_select_title" msgid="5757657769327732833">"시스템 선택"</string>
     <string name="cdma_system_select_summary" msgid="60460043745797517">"CDMA 로밍 모드 변경"</string>
